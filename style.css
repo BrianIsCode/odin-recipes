@@ -1,0 +1,45 @@
+* {
+    background-color: rgb(248, 248, 248);
+    font-family: Helvetica, Sans-serif;
+}
+
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#heading {
+    text-align: center;
+    color: rgb(236, 178, 51);
+    font-size: 70px;
+    font-family: Helvetica, Sans-serif;
+}
+
+button {
+    background-color: rgb(236, 178, 51);
+    color: rgb(126, 88, 6);
+    border-color: rgb(236, 178, 51);
+}
+
+.links {
+    text-align: center;
+}
+
+.links .lasagna button {
+    position: absolute;
+    left: 27%;
+    bottom: 20%;
+}
+
+.links .ziti button {
+    position: absolute;
+    left: 48%;
+    bottom: 20%;
+}
+
+.links .soup button {
+    position: absolute;
+    left: 68.5%;
+    bottom: 20%;
+}
